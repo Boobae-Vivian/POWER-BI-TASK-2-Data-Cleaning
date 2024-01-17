@@ -34,7 +34,7 @@ By successfully executing these skills and concepts, the task aims to produce a 
 
 ### 1. Renaming Columns and Converting Column Names to Uppercase:
 
-Data cleaning and transformation within POWER BI is accomplished through the Power Query Editor, a robust tool for shaping, cleaning, and refining data before integrating it into Power BI Desktop. Users have the flexibility to either transform the data in Power Query Editor before loading it or load the dataset into Power BI Desktop and then proceed to Power Query Editor. For this task, we'll begin by importing the employee dataset into Power BI Desktop, following the steps outlined in "Power BI Task 1: Data Integration."
+Data cleaning and transformation within POWER BI is accomplished through the Power Query Editor, a robust tool for shaping, cleaning, and refining data before integrating it into Power BI Desktop. Users have the flexibility to either transform the data in Power Query Editor before loading it or load the dataset into Power BI Desktop and then proceed to Power Query Editor. For this task, we'll begin by importing the employee dataset into Power BI Desktop, following the steps outlined in "Power BI Task 1: Data Integration." [Click Here](https://github.com/Boobae-Vivian/POWER-BI-TASK-1-Dataset-Integration)
 
 Once the employee dataset is imported into Power BI Desktop, it appears in the data pane on the right side of the Power BI environment. To visualize and work on the dataset, click on the table view icon located on the left side of the Power BI environment. Upon inspection, the columns are identified as inconsistent, prompting the need for refinement.
 
